@@ -13,8 +13,6 @@ This are the screenshots for the networkwalks tool and the pdf file that i crack
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/85947468-585c-4ad3-a114-8d7c0bf373a3" />
 <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/3e19f4e1-921e-4adf-b6f9-96fb644be1db" />
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/fee33798-a1e2-44c6-adf1-6d2131a2e6a3" />
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/e5fc892f-76ee-41b7-9d8c-696295699d44" />
 
-<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c9134659-dd28-42f5-849a-<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/92f94ea0-5a17-4b1d-be90-eec958772cd6" />
 
 1421d7191e27" />
