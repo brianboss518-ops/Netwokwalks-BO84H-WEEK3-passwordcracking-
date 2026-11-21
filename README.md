@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/34ad9422-7b79-40a5-87e8-75049fb6ed1b" />
-
 Am glad to share that have completed another great week of learning and discovering new tools in cybersecurity with the great team from Networkwalks.<br>
 This week we were working on password recovery. <br>
 we used two main tools: 1.JOHN THE RIPPER <br>
@@ -8,11 +6,12 @@ we used two main tools: 1.JOHN THE RIPPER <br>
 The experience was very exciting and i would encourage all interested in cybersecurity to visit the networkwalks sites for more info and experince<br>
 I cracked two pdf files shared by my instructor using the networkwalks tool that is available to use in the browser and using johntheripper that i downloaded in my windows pc.<br>
 This are the screenshots for the networkwalks tool and the pdf file that i cracked
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/1c3e6443-0570-4e80-9a7f-fb1b9be25a95" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/34ad9422-7b79-40a5-87e8-75049fb6ed1b" />
+
+
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/85947468-585c-4ad3-a114-8d7c0bf373a3" />
 <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/3e19f4e1-921e-4adf-b6f9-96fb644be1db" />
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/1c3e6443-0570-4e80-9a7f-fb1b9be25a95" />
-
-
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/fee33798-a1e2-44c6-adf1-6d2131a2e6a3" />
 <img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/e5fc892f-76ee-41b7-9d8c-696295699d44" />
 
